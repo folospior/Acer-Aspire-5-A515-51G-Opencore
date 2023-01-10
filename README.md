@@ -1,4 +1,4 @@
-# Acer-Aspire-5-A515-51G-Opencore
+# Acer-Aspire-5-A515-51G-Opencore-EFI
 This repo is made for documenting changes within my Opencore build.
 
 It was **NOT** made to be used as a prebuilt EFI, and should be used for inspiration to creating your own Hackintosh. 
