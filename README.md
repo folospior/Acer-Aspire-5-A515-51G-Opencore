@@ -21,4 +21,6 @@ Specs:
 
 **I WILL NOT RESPOND TO ANY ISSUES IF YOU DECIDE TO USE IT AS A PREBUILT EFI.**
 
+### If you see any issues with my EFI, I'd love if you help me out. Please don't contact me if you've got an issue though, I am not an expert at all.
+
 *For any help with your **own** EFI, go to: https://www.reddit.com/r/hackintosh or https://discord.com/invite/Wxam8aH*
