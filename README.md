@@ -8,7 +8,7 @@ It was **NOT** made to be used as a prebuilt EFI, and should be used for inspira
 I highly suggest you use this one, and this one only. While lengthy, it is best explained and even supports AMD processors.
 
 Specs:
-
+```
 > CPU - Intel Core i5-8250U (Kaby Lake-R)
 
 > iGPU - Intel UHD Graphics 620
@@ -24,7 +24,7 @@ Specs:
 > Wifi is not working - only ethernet connection. Wifi/Bluetooth card - Qualcomm Atheros QCA9377
 
 > Managed to get Bluetooth to work on my Qualcomm Atheros QCA9377 with BlueToolFixup.kext
-
+```
 # Current issues
 
 > Wifi is not working. Probably won't get it to work without a wifi card change.
@@ -37,10 +37,15 @@ Specs:
 
 ![20230219_204154](https://user-images.githubusercontent.com/111700958/220196892-1b83f151-8af1-4e76-9167-d47a8ee4f4c3.jpg)
 
-
+# Disclaimers
 
 **I WILL NOT RESPOND TO ANY ISSUES IF YOU DECIDE TO USE IT AS A PREBUILT EFI.**
 
 ### If you see any issues with my EFI, I'd love if you help me out. Please don't contact me if you've got an issue though, I am not an expert at all.
 
 *For any help with your **own** EFI, go to: https://www.reddit.com/r/hackintosh or https://discord.com/invite/Wxam8aH*
+
+## Credits:
+[Apple](https://apple.com) for macOS.
+[Acidanthera](https://github.com/acidanthera) for OpenCore and many Kexts that made this project possible.
+Other Kext creators that made this possible as well!
