@@ -19,6 +19,26 @@ Specs:
 
 > Storage - 240 GB Crucial SATA SSD for data, 480 GB WD Green NVMe SSD for system
 
+> Ethernet - Realtek RTL8111 Ethernet Card 
+
+> Wifi is not working - only ethernet connection. Wifi/Bluetooth card - Qualcomm Atheros QCA9377
+
+> Managed to get Bluetooth to work on my Qualcomm Atheros QCA9377 with BlueToolFixup.kext
+
+# Current issues
+
+> Wifi is not working. Probably won't get it to work without a wifi card change.
+
+> After booting up the laptop, the screen is looking funky, as shown in the screenshot below:
+
+![20230219_204139](https://user-images.githubusercontent.com/111700958/220196765-75100f9a-474b-4ccf-8ef8-6b6240164d73.jpg)
+
+> A fix for this is to put the laptop to sleep and wake it up afterwards.
+
+![20230219_204154](https://user-images.githubusercontent.com/111700958/220196892-1b83f151-8af1-4e76-9167-d47a8ee4f4c3.jpg)
+
+
+
 **I WILL NOT RESPOND TO ANY ISSUES IF YOU DECIDE TO USE IT AS A PREBUILT EFI.**
 
 ### If you see any issues with my EFI, I'd love if you help me out. Please don't contact me if you've got an issue though, I am not an expert at all.
