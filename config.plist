@@ -273,6 +273,8 @@
 				<data>AACQAA==</data>
 				<key>device-id</key>
 				<data>FlkAAA==</data>
+				<key>AAPL00,override-no-connect</key>
+				<data>AP///////wAJ5boGAAAAAAEaAQSVIhN4ArCQl1hUkiYdUFQAAAABAQEBAQEBAQEBAQEBAQEBPDeA3nA4FEAwIDYAWMEQAAAaAAAAAAAAAAAAAAAAAAAAAAAAAAAA/gBCT0UgQ1EKICAgICAgAAAA/gBOVDE1NkZITS1ONDEKAP8=</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x1C,0x4)/Pci(0x0,0x1)</key>
 			<dict>
@@ -1348,23 +1350,23 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>Redacted for Privacy</string>
+			<string>C02827270QXHWVPJA</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>Redacted for Privacy</data>
+			<data>mCimAx1u</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacBookPro15,1</string>
+			<string>MacBookPro14,1</string>
 			<key>SystemSerialNumber</key>
-			<string>Redacted for Privacy</string>
+			<string>C02X1FYNHV29</string>
 			<key>SystemUUID</key>
-			<string>Redacted for Privacy</string>
+			<string>316AB2D8-5BE6-481F-BF11-335F231F0866</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
