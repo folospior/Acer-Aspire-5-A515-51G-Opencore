@@ -37,6 +37,8 @@ Specs:
 
 ![20230219_204154](https://user-images.githubusercontent.com/111700958/220196892-1b83f151-8af1-4e76-9167-d47a8ee4f4c3.jpg)
 
+### This bug occurs on displays with a 6-bit display depth. This can be fixed by an external display, but make sure that your HDMI port isn't connected directly to your dGPU through Windows.
+
 # Disclaimers
 
 **I WILL NOT RESPOND TO ANY ISSUES IF YOU DECIDE TO USE IT AS A PREBUILT EFI.**
