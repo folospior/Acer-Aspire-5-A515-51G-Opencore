@@ -1193,7 +1193,7 @@
 			<key>ScanPolicy</key>
 			<integer>0</integer>
 			<key>SecureBootModel</key>
-			<string>Default</string>
+			<string>Disabled</string>
 			<key>Vault</key>
 			<string>Optional</string>
 		</dict>
@@ -1324,13 +1324,13 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C029235004NJP4FAD</string>
+			<string>C02902404CDJP4FUE</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>FBCf4v1u</data>
+			<data>pNGM8/HN</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1338,9 +1338,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro15,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02YT9Y3KGYG</string>
+			<string>C02Y36ZQKGYG</string>
 			<key>SystemUUID</key>
-			<string>C99A34EF-7B82-494D-A1AE-F3C7750CF0E5</string>
+			<string>15F3783B-D59C-488C-A289-13D3AE1B08A0</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
